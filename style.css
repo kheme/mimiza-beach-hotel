@@ -1,0 +1,19 @@
+<?
+// #4786b2
+// navy
+require "admin/conn";
+header("Content-type: text/css");
+?>
+<!--
+body, td, th, table {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:11px;color:#000000;}
+body{margin:0px;background-color:#FFFFFF;background-image:url('<?=address;?>/images/bg.jpg');}
+.around{border:1px solid #f7f7f7;border-top-width:1px;border-bottom-width:1px;border-right-width:1px;border-left-width:1px;text-decoration:none;}
+.style1{color:#4786b2;font-weight:bold;}
+.form{font:10 verdana;border:1px solid #cccccc;}
+.style2 {color: #FF0000}
+.text {font-family:verdana; font-size:11px; font-weight:normal; color:#000000;}
+a:visited{color:#4786b2;}
+a{color:#4786b2;text-decoration:none;}
+input{font-family:Verdana;font-size:8pt;border:1px solid #C0C0C0}
+select{font-family:Verdana;font-size:8pt;border:1px solid #C0C0C0}
+-->
